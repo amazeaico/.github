@@ -1,8 +1,8 @@
 # AmazeAI
 
-AmazeAI builds and runs custom AI systems for service businesses in the US and UK: healthcare practices, home and field services, wealth management and professional services.
+AmazeAI builds AI receptionists, follow-up and workflow automation for service businesses.
 
-Website: https://amazeai.co
+Website: https://amazeai.co | Founded 2024 | A company of [AmazeTech](https://amazetech.co)
 
 ## What we build
 
@@ -10,7 +10,20 @@ Website: https://amazeai.co
 - **AmazePipeline**: follow-up on every lead and quote, on HubSpot or GoHighLevel.
 - **AmazeOps**: workflow automation between the tools you already use.
 
-We sell a done-for-you build, not a login. The way in is the Systems Diagnostic: $2,500, ten business days, credited in full against any build. Live by day 30 or we refund the build fee. Healthcare builds are HIPAA-aligned.
+We build for healthcare practices, home services (HVAC, plumbing, electrical, solar), wealth management and professional services. Healthcare builds are HIPAA-aligned.
+
+We sell a done-for-you build, not a login. The way in is the Systems Diagnostic: $2,500, ten business days, credited in full against any build. Live by day 30 or we refund the build fee.
+
+## Results from published cases
+
+- BrightPath Solar: average response time from 12 minutes to under 1.
+- Meridian Healthcare: +44% booked appointments.
+- Sunridge Solar: 91% faster speed-to-lead.
+- Compass Trail: +31% quotes converted.
+- KMG Imports: +40% leads, +32% conversion.
+- Ehsas Home Health: +55% appointment bookings.
+
+Figures as published on the case pages at https://amazeai.co.
 
 ## Signal: what we are seeing in production
 
